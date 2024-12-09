@@ -35,4 +35,4 @@ Make sure you have the following installed on your system:
 Here are some screenshots of the application:
    
    ![Homepage Screenshot](https://github.com/Snehardhi24/Stats-report/blob/main/Home%20page.png)
-   ![Results Screenshot]()
+   ![Results Screenshot](https://github.com/Snehardhi24/Stats-report/blob/main/results%20page.png)
